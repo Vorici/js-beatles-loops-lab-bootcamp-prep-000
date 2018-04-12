@@ -41,14 +41,14 @@ function johnLennonFacts(facts) {
 
 function iLoveBeatles(number){
   
-  var array = [];
+    var array = [];
   
-  var i = number;
+    var i = number;
   
-  do {
-   array.push();
-    i++;
-}
+   do {
+     array.push("I love the Beatles!");
+     i++;
+  }
 while (i < 15);
   
 }
