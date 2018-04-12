@@ -39,7 +39,7 @@ function johnLennonFacts(facts) {
   
 }
 
-function iLoveBeatles(number){
+function iLoveTheBeatles(number){
   
     var array = [];
   
