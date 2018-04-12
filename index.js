@@ -50,5 +50,5 @@ function iLoveBeatles(number){
      i++;
   }
 while (i < 15);
-  
+return array; 
 }
