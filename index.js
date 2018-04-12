@@ -9,6 +9,7 @@ var facts = [
   "He hated the sound of his own voice"
 ];
 
+
 function theBeatlesPlay(musicians, instruments) {
   
   var array = [];
@@ -20,7 +21,6 @@ function theBeatlesPlay(musicians, instruments) {
  return array;
  
 }
-
 
 function johnLennonFacts(facts) {
   
@@ -35,5 +35,12 @@ function johnLennonFacts(facts) {
     i++ ; }  
   
   return exclamationFacts;
+  
+}
+
+function iLoveBeatles(number){
+  
+  var array = [];
+  
   
 }
