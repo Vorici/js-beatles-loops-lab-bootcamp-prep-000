@@ -45,4 +45,10 @@ function iLoveBeatles(number){
   
   var i = number;
   
+  do {
+   array.push();
+    i++;
+}
+while (i < 15);
+  
 }
